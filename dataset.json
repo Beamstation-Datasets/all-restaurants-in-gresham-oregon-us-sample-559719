@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete dataset of all active restaurant listings in Gresham, Oregon with a population of over 114k. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Gresham, Oregon, US",
+  "export_job_id": "616d0c26-21be-4448-8c44-4c74e6a8a7c7",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 559719,
+  "location_name": "Gresham",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-gresham-oregon-us-sample-559719",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/559719/beamstation_559719_restaurants-us-or_SAMPLE_DIST.csv",
+  "sample_pct": 9.74,
+  "sample_records": 26,
+  "sample_sha256": "adbb49f3bdb14fe85b44ddc6f68074942206189ae9164adc68e904a0fe003172",
+  "sample_size_bytes": 105104,
+  "total_records": 267,
+  "updated_at": "2026-04-09T14:22:38.007759+00:00"
+}
