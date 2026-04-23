@@ -1,6 +1,6 @@
 # All Restaurants in Gresham, Oregon, US
 
-> Free BeamStation sample export with 21 rows and masked direct-contact fields.
+> Free BeamStation sample export with 20 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `559719` |
 | Location | Gresham |
 | Category | Restaurants |
-| Full dataset size | 211 records |
-| Free sample size | 21 records (9.95%) |
-| Last export | 2026-04-16T15:33:37.876709+00:00 |
+| Full dataset size | 200 records |
+| Free sample size | 20 records (10.0%) |
+| Last export | 2026-04-23T13:32:57.716200+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-gresham-oregon-us-sample-559719/releases/download/sample-latest/beamstation_559719_restaurants-us-or_SAMPLE_DIST.csv) |
 
 ## What is in this sample
