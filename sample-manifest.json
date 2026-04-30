@@ -1,12 +1,12 @@
 {
-  "export_job_id": "55ee9905-c3f0-457d-947f-35532eb8d273",
+  "export_job_id": "dad5715d-f247-4914-94df-5edeea52d8fa",
   "id_short": 559719,
-  "published_at": "2026-04-23T19:22:41Z",
+  "published_at": "2026-04-30T19:15:07Z",
   "repo_name": "all-restaurants-in-gresham-oregon-us-sample-559719",
   "sample_asset_name": "beamstation_559719_restaurants-us-or_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/559719/beamstation_559719_restaurants-us-or_SAMPLE_DIST.csv",
-  "sample_records": 20,
-  "sample_sha256": "4f57c63c3f2f49312d0cc4930fcdb7dfad2d4e42c97ea5b8d5368809289c624f",
-  "sample_size_bytes": 93450,
-  "total_records": 200
+  "sample_records": 27,
+  "sample_sha256": "fd5f136fb7b81a959ccad6873c4008a7d4f0fe9a287c084c1f5f1d2dbb9708db",
+  "sample_size_bytes": 118396,
+  "total_records": 275
 }
